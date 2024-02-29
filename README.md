@@ -12,8 +12,7 @@
 - 🎓I am living, Quebec.
 -  Goals: Keep learning and become develops skills around Kubernetes and it's ecosystem
 - 💻 I’m currently working in a Platform engineering team helping createing solution to build, test, deploy and monitor services in GCP making developers life easier.
-- 📫 How to reach me **matthieu.evrin@.com**
-- ⚡ Fun fact: I love montain biking and rock climbing
+- ⚡ Fun fact: I love mountain hiking
 <br />
 
 
@@ -34,6 +33,6 @@
 
 ## Contact
 
-Matthieu EVRIN - [@linkedin](https://www.linkedin.com/in/matthieu-evrin/) - mdoquocb@icloud.com
+Matthieu EVRIN - [@linkedin](https://www.linkedin.com/in/matthieu-evrin/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
