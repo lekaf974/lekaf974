@@ -31,6 +31,16 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=lekaf974&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lekaf974&hide_border=false&count_private=true" alt="lekaf974"/> </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekaf974&hide_progress=true)
+
+[![](https://visitcount.itsvg.in/api?id=lekaf974&icon=0&color=1)](https://visitcount.itsvg.in)
+
 ## Contact
 
 Matthieu EVRIN - [@linkedin](https://www.linkedin.com/in/matthieu-evrin/)
