@@ -41,6 +41,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=lekaf974&icon=0&color=1)](https://visitcount.itsvg.in)
 
+## Badges
+
+### hacktoberfest
+[![@lekaf974's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lekaf974)](https://holopin.io/@lekaf974)
+
 ## Contact
 
 Matthieu EVRIN - [@linkedin](https://www.linkedin.com/in/matthieu-evrin/)
