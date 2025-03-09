@@ -49,8 +49,8 @@
   <tr>
     <!-- <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lekaf974&theme=aura_dark"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lekaf974&theme=aura_dark&exclude=html,scss,mathematica,js"></td> -->
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lekaf974&theme=aura_dark"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lekaf974&theme=aura_dark&exclude=html,scss,mathematica,js"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lekaf974"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lekaf974&exclude=html,scss,mathematica,js"></td>
   </tr>
 </table>
 
@@ -77,8 +77,8 @@
 #### Contribute on CNCF projects
 ---
 
-- **meshery**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ameshery&type=pullrequests
-- **score-spec**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ascore-spec&type=pullrequests
+- **meshery**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2025-01-01..2025-12-31+org%3Ameshery&type=pullrequests
+- **score-spec**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2025-01-01..2025-12-31+org%3Ascore-spec&type=pullrequests
 
 ### 2024 
 
