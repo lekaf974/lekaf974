@@ -31,7 +31,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=lekaf974&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lekaf974&hide_border=false&count_private=true" alt="lekaf974"/> </p>
@@ -39,7 +39,29 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekaf974&hide_progress=true)
 
-[![](https://visitcount.itsvg.in/api?id=lekaf974&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lekaf974&icon=0&color=1)](https://visitcount.itsvg.in) -->
+
+
+# 📊 GitHub Stats:
+
+<table align='center'>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=lekaf974&theme=neon-palenight&hide_border=true&card_width=705">
+     </td>
+   </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekaf974&theme=2077">
+     </td>
+   </tr>
+</table><table align='center'>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lekaf974&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lekaf974&theme=aura_dark&exclude=html,scss,mathematica,js"></td>
+  </tr>
+</table>
+
 
 ## Badges
 
