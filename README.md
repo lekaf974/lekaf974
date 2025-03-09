@@ -64,28 +64,48 @@
 
 ### 2025
 
-- Learning and skills development 
-  [x] Kubernetes and it's ecosystem
-    
-  [x] Programming lanquage or Frameworks
-    - Golang
-    - Jekyll
-- Contribute on CNCF projects
-  [x] [mehery](https://github.com/meshery)
-  [x] [score-spec](https://github.com/score-spec)
+#### Learning and skills development 
+---
+
+#### Kubernetes and it's ecosystem
+- TBD
+
+#### Programming lanquage or Frameworks
+- Golang
+- liquid (jekyll)
+
+#### Contribute on CNCF projects
+---
+
+- **meshery**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ameshery&type=pullrequests
+- **score-spec**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ascore-spec&type=pullrequests
 
 ### 2024 
 
-- Learning and skills development 
-  [x] Kubernetes and it's ecosystem
-    - ArgoCD
-    - Exteranl Secret Operator (GCP)
-    - Kubernetes API Gateway
-  [x] Programming lanquage or Frameworks
-    - Golang
-    - Jekyll
-- Contribute on CNCF projects
-  [x] [mehery](https://github.com/meshery/meshery/)
+#### Learning and skills development
+---
+
+##### Kubernetes and it's ecosystem
+- ArgoCD
+- Exteranl Secret Operator (GCP)
+- Kubernetes API Gateway
+
+##### Programming lanquage or Frameworks
+- Golang
+- Jekyll
+
+#### Contribute on CNCF projects
+---
+
+- **meshery**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ameshery&type=pullrequests
+- **volcano.sh**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Avolcano-sh&type=pullrequests
+- **etcd-io**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Aetcd-io&type=pullrequests
+- **jeagertracing**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ajeagertracing&type=pullrequests
+- **metal3-io**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ametal3-io&type=pullrequests
+- **kubearmor**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Akubearmor&type=pullrequests
+- **cortexproject**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Acortexproject&type=pullrequests
+
+
 
 ## Contact
 
