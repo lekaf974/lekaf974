@@ -10,7 +10,6 @@
 
 ## I'm a Learner and DevOps (Platform) Engineer!
 - 🎓I am living, Quebec.
--  Goals: Keep learning and become develops skills around Kubernetes and it's ecosystem
 - 💻 I’m currently working in a Platform engineering team helping createing solution to build, test, deploy and monitor services in GCP making developers life easier.
 - ⚡ Fun fact: I love mountain hiking
 <br />
@@ -31,32 +30,25 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=lekaf974&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lekaf974&hide_border=false&count_private=true" alt="lekaf974"/> </p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekaf974&hide_progress=true)
-
-[![](https://visitcount.itsvg.in/api?id=lekaf974&icon=0&color=1)](https://visitcount.itsvg.in) -->
-
-
 # 📊 GitHub Stats:
 
 <table align='center'>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=lekaf974&theme=neon-palenight&hide_border=true&card_width=705">
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=lekaf974&theme=neon-palenight&hide_border=true&card_width=705"> -->
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=lekaf974&hide_border=true&card_width=705">
      </td>
    </tr>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekaf974&theme=2077">
+      <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekaf974&theme=2077"> -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekaf974&">
      </td>
    </tr>
 </table><table align='center'>
   <tr>
+    <!-- <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lekaf974&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lekaf974&theme=aura_dark&exclude=html,scss,mathematica,js"></td> -->
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lekaf974&theme=aura_dark"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lekaf974&theme=aura_dark&exclude=html,scss,mathematica,js"></td>
   </tr>
@@ -67,6 +59,33 @@
 
 ### hacktoberfest
 [![@lekaf974's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lekaf974)](https://holopin.io/@lekaf974)
+
+## Goals
+
+### 2025
+
+- Learning and skills development 
+  [x] Kubernetes and it's ecosystem
+    
+  [x] Programming lanquage or Frameworks
+    - Golang
+    - Jekyll
+- Contribute on CNCF projects
+  [x] [mehery](https://github.com/meshery)
+  [x] [score-spec](https://github.com/score-spec)
+
+### 2024 
+
+- Learning and skills development 
+  [x] Kubernetes and it's ecosystem
+    - ArgoCD
+    - Exteranl Secret Operator (GCP)
+    - Kubernetes API Gateway
+  [x] Programming lanquage or Frameworks
+    - Golang
+    - Jekyll
+- Contribute on CNCF projects
+  [x] [mehery](https://github.com/meshery/meshery/)
 
 ## Contact
 
