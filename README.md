@@ -2,35 +2,50 @@
 
 <br />
 <div align="left">
-  <h1><b>Matthieu EVRIN</b>
+  <h1><b>lekaf974</b>
 </div>
 
 
-
-
 ## I'm a Learner and DevOps (Platform) Engineer!
-- 🎓I am living, Quebec.
+- 🎓I am living, Canada, Quebec.
 - 💻 I’m currently working in a Platform engineering team helping createing solution to build, test, deploy and monitor services in GCP making developers life easier.
 - ⚡ Fun fact: I love mountain hiking
 <br />
 
 
-### Languages and Tools:
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-
-<br>
+<br />
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<br />
 
-# 📊 GitHub Stats:
+# Skills
+
+<div>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"> 
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/envoy/envoy-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />                    
+</div>
+<br />
+
+
+# 📊 GitHub Stats
 
 <table align='center'>
   <tr>
@@ -54,11 +69,18 @@
   </tr>
 </table>
 
-
 ## Badges
 
+<details>
+<summary>
+
 ### hacktoberfest
+
+</summary>
+
 [![@lekaf974's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lekaf974)](https://holopin.io/@lekaf974)
+
+</details>
 
 ## Goals
 
