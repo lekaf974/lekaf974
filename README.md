@@ -62,7 +62,12 @@
 
 ## Goals
 
+<details>
+<summary>
+
 ### 2025
+
+</summary>
 
 #### Learning and skills development 
 ---
@@ -80,7 +85,14 @@
 - **meshery**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2025-01-01..2025-12-31+org%3Ameshery&type=pullrequests
 - **score-spec**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2025-01-01..2025-12-31+org%3Ascore-spec&type=pullrequests
 
+</details>
+
+<details>
+<summary>
+
 ### 2024 
+
+</summary>
 
 #### Learning and skills development
 ---
@@ -105,7 +117,7 @@
 - **kubearmor**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Akubearmor&type=pullrequests
 - **cortexproject**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Acortexproject&type=pullrequests
 
-
+</details>
 
 ## Contact
 
