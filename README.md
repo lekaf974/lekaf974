@@ -95,11 +95,13 @@
 ---
 
 #### Kubernetes and it's ecosystem
-- TBD
+- ArgoCD
 
 #### Programming lanquage or Frameworks
 - Golang
-- liquid (jekyll)
+- NestJS / SocketIO 
+- BATS Testing
+- .Net Core
 
 #### Contribute on CNCF projects
 ---
