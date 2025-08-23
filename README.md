@@ -91,6 +91,12 @@
 
 </summary>
 
+#### CNCF engagement
+
+- [x] CNCF Ambassador Application
+- [ ] Assist my first KubeCon in Atlanta
+- [ ] Mentorship GSoC or LFX
+
 #### Learning and skills development 
 ---
 
