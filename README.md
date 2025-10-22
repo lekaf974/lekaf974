@@ -96,7 +96,7 @@
 #### CNCF engagement
 
 - [x] CNCF Ambassador Application (ACCEPTED)
-- [] Assist my first KubeCon in Atlanta (CANCELLED)
+- [ ] Assist my first KubeCon in Atlanta (CANCELLED)
 - [ ] Mentorship GSoC or LFX
 
 #### Learning and skills development 
@@ -107,7 +107,6 @@
 
 #### Programming lanquage or Frameworks
 - Golang
-- NestJS / SocketIO 
 - BATS Testing
 - .Net Core
 
@@ -115,6 +114,7 @@
 ---
 
 - **meshery**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2025-01-01..2025-12-31+org%3Ameshery&type=pullrequests
+- **metal3-io**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2025-01-01..2025-12-31+org%3Ametal3-io&type=pullrequests
 - **score-spec**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2025-01-01..2025-12-31+org%3Ascore-spec&type=pullrequests
 
 </details>
@@ -141,13 +141,13 @@
 #### Contribute on CNCF projects
 ---
 
-- **meshery**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ameshery&type=pullrequests
-- **volcano.sh**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Avolcano-sh&type=pullrequests
-- **etcd-io**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Aetcd-io&type=pullrequests
-- **jeagertracing**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ajeagertracing&type=pullrequests
-- **metal3-io**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ametal3-io&type=pullrequests
-- **kubearmor**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Akubearmor&type=pullrequests
 - **cortexproject**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Acortexproject&type=pullrequests
+- **etcd-io**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Aetcd-io&type=pullrequests
+- **jaegertracing**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ajeagertracing&type=pullrequests
+- **kubearmor**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Akubearmor&type=pullrequests
+- **meshery**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ameshery&type=pullrequests
+- **metal3-io**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Ametal3-io&type=pullrequests
+- **volcano.sh**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2024-01-01..2024-12-31+org%3Avolcano-sh&type=pullrequests
 
 </details>
 
