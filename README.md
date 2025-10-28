@@ -10,7 +10,10 @@
 - 🎓I am living, Canada, Quebec.
 - 💻 I’m currently working in a Platform engineering team helping createing solution to build, test, deploy and monitor services in GCP making developers life easier.
 - ⚡ Fun fact: I love mountain hiking
-- **CNCF Ambassador 2025** https://www.cncf.io/people/ambassadors/?p=matthieu-evrin
+- <div align="left" vertical="center">
+  <img src="https://avatars.githubusercontent.com/u/13455738?s=200&v=4" width="20" height="20"/>
+  <strong>CNCF Ambassador 2025</strong> https://www.cncf.io/people/ambassadors/?p=matthieu-evrin
+  </div>
 <br />
 
 
