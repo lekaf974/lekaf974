@@ -92,6 +92,38 @@
 <details>
 <summary>
 
+### 2026
+
+</summary>
+
+#### CNCF engagement
+
+- [ ] CNCF Ambassador Renewal
+- [ ] Assist my first KubeCon
+- [ ] Mentorship GSoC or LFX
+
+#### Learning and skills development 
+---
+
+#### Kubernetes and it's ecosystem
+- ArgoCD
+
+#### Programming lanquage or Frameworks
+- Golang
+- BATS Testing
+
+#### Contribute on CNCF projects
+---
+
+- **meshery**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2026-01-01..2026-12-31+org%3Ameshery&type=pullrequests
+- **metal3-io**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2026-01-01..2026-12-31+org%3Amesehry-extensions&type=pullrequests
+- **score-spec**: https://github.com/search?q=author%3Alekaf974+type%3Apr+created%3A2026-01-01..2026-12-31+org%3Ascore-spec&type=pullrequests
+
+</details>
+
+<details>
+<summary>
+
 ### 2025
 
 </summary>
