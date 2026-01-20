@@ -98,7 +98,7 @@
 
 #### CNCF engagement
 
-- [] CNCF Ambassador Renewal
+- [ ] CNCF Ambassador Renewal
 - [ ] Assist my first KubeCon
 - [ ] Mentorship GSoC or LFX
 
